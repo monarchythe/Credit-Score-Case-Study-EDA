@@ -23,6 +23,7 @@ When a client applies for a loan, the company can take one of four actions:
 Through EDA, I have explored how consumer and loan attributes correlate with the likelihood of default. This analysis aims to support the company in making better-informed lending decisions, helping to reduce financial risk and missed business opportunities.
 ## Data understanding 
 [Download the data files from here](https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB)
+
 This dataset has 3 files as explained below: 
 1. 'application_data.csv'  contains all the information of the client at the time of application.
 The data is about whether a client has payment difficulties.
