@@ -21,4 +21,10 @@ When a client applies for a loan, the company can take one of four actions:
 4. Unused offer: The client cancels the loan at a later stage.
 ## Objective
 Through EDA, I have explored how consumer and loan attributes correlate with the likelihood of default. This analysis aims to support the company in making better-informed lending decisions, helping to reduce financial risk and missed business opportunities.
+## Data understanding 
+This dataset has 3 files as explained below: 
+1. 'application_data.csv'  contains all the information of the client at the time of application.
+The data is about whether a client has payment difficulties.
+2. 'previous_application.csv' contains information about the client’s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.
+3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.
 
